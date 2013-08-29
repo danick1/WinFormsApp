@@ -1,1 +1,2 @@
 DEL /F /Q "C:\Users\Buket\Desktop\muckk.txt"
+pause
